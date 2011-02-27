@@ -28,13 +28,13 @@
     <bundle.symbolicName>org.apache.wicket</bundle.symbolicName>
     <wrapped.groupId>org.apache.wicket</wrapped.groupId>
     <wrapped.artifactId>wicket</wrapped.artifactId>
-    <wrapped.version>1.4.13</wrapped.version>
+    <wrapped.version>1.4.16</wrapped.version>
     <bundle.namespace>${wrapped.groupId}</bundle.namespace>
   </properties>
 
   <modelVersion>4.0.0</modelVersion>
   <artifactId>org.apache.wicket-all</artifactId>
-  <version>1.4.13.w2-SNAPSHOT</version>
+  <version>1.4.16.w1-SNAPSHOT</version>
 
   <name>OpenEngSB :: OSGi Wrapped Bundles :: Apache Wicket</name>
 
